@@ -1,0 +1,15 @@
+
+<Root>
+    <test>
+        <QFontComboBox>
+           <item label="Arial" />
+           <item label="B-nazanin" />
+           <item label="test" />
+         </QFontComboBox>
+        <QFontComboBox>
+           <item label="Arial" />
+           <item label="B-nazanin" />
+           <item label="test" />
+        </QFontComboBox>
+    </test>
+</Root>
